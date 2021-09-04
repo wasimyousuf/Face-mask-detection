@@ -42,6 +42,11 @@ without_mask: 3828 images
 ![ss3](https://user-images.githubusercontent.com/89267839/132084512-59729856-f1cc-467f-82ed-2cef2f2dca0c.png)
 
 
+https://user-images.githubusercontent.com/89267839/132085654-b7444ad8-37cd-4ea7-a6c0-c1cf62989d84.mp4
+
+
+
+
 
 
 Our model gave 98% accuracy for Face Mask Detection after training
