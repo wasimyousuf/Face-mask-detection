@@ -1,4 +1,5 @@
 # Face Detection (Phase 1)
+Haar-like features are digital image features used in object recognition. They owe their name to their intuitive similarity with Haar wavelets and were used in the first real-time face detector. Paul Viola and Michael Jones in their paper titled “Rapid Object Detection using a Boosted Cascade of Simple Features” used the idea of Haar-feature classifier based on the Haar wavelets. This classifier is widely used for tasks like face detection in computer vision industry.
 Face detection is performed by using classifiers. A classifier is essentially an algorithm that decides whether a given image is face (positive) or not a face(negative). A classifier needs to be trained on thousands of images with and without faces. But, OpenCV already has two pre-trained face detection classifiers, which can readily be used in a program. The two classifiers are: Haar Classifier and Local Binary Pattern(LBP) classifier. 
 Here, We are using the Haar classifier.
 
