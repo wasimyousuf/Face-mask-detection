@@ -42,6 +42,8 @@ without_mask: 3828 images
 ![ss3](https://user-images.githubusercontent.com/89267839/132084512-59729856-f1cc-467f-82ed-2cef2f2dca0c.png)
 
 
+
+
 Our model gave 98% accuracy for Face Mask Detection after training
 ![accuracy](https://user-images.githubusercontent.com/89267839/132084476-1196458c-7a23-444b-ad54-cbcc1ef49ddd.JPG)
 
@@ -52,7 +54,9 @@ We got the following accuracy/loss training curve plot
 
 ![training loss](https://user-images.githubusercontent.com/89267839/132084419-736211d1-f7b6-4bbf-9a6d-ec2d79738650.JPG)
 
-
-
+# conclusion
+1. Detection of faces
+2. Face mask detection 
+Hence, Both the phases were carried out and the system was tested using the test video. We got an acuuracy of 97% on the face mask detection. This system can be used to detect whether people are wearing a mask or not on Railway stations, Airports etc.
 
 
