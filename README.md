@@ -24,7 +24,8 @@ Test on Image
 
 
 ![gayscale](https://user-images.githubusercontent.com/89267839/132081529-2d5e404c-de84-41f9-9df5-0c7c3f5b7524.png)
-![output img](https://user-images.githubusercontent.com/89267839/132081537-a66b98b8-5c02-4d22-b135-29208f444312.png)
+![output2](https://user-images.githubusercontent.com/89267839/132081579-8a922195-984c-4315-9a4c-d8434ae1ea5f.png)
+
 
 Conclusion- Hence our model was able to detect faces fairly accurate.
 
