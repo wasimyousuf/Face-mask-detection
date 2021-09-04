@@ -48,6 +48,8 @@ Our model gave 98% accuracy for Face Mask Detection after training
 
 
 We got the following accuracy/loss training curve plot
+
+
 ![training loss](https://user-images.githubusercontent.com/89267839/132084419-736211d1-f7b6-4bbf-9a6d-ec2d79738650.JPG)
 
 
