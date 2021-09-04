@@ -30,6 +30,27 @@ Test on Image
 Conclusion- Hence our model was able to detect faces fairly accurate.
 
 
-# Phase 2
+# Face Mask Detection (Phase 2)
+Since the inception of global pandemic of Novel Corona Virus Disease(coViD-19) many precautionary measures are made mandatory around the world. wearing of mask has been the most important one. monitoring this can be difficult, so what if an algorithm detects whether a person is wearing a mask or not?
+This is what we are trying to implement. Here, we have used a dataset which is downloaded from Kaggle.
+This dataset consists of 7553 images belonging to two classes:
+
+with_mask: 3725 images
+without_mask: 3828 images
+
+# Detection
+![ss3](https://user-images.githubusercontent.com/89267839/132084512-59729856-f1cc-467f-82ed-2cef2f2dca0c.png)
+
+
+Our model gave 98% accuracy for Face Mask Detection after training
+![accuracy](https://user-images.githubusercontent.com/89267839/132084476-1196458c-7a23-444b-ad54-cbcc1ef49ddd.JPG)
+
+
+
+We got the following accuracy/loss training curve plot
+![training loss](https://user-images.githubusercontent.com/89267839/132084419-736211d1-f7b6-4bbf-9a6d-ec2d79738650.JPG)
+
+
+
 
 
